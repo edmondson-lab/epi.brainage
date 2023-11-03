@@ -1,2 +1,2 @@
 # brainage
-Implementation of BrainAGE model using python
+Implementation of BrainAGE model using python for environmental epidemiology studies.
